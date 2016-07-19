@@ -21,7 +21,7 @@ public class ClockAngle
 		double sprimpose=RdAngl-AcAngl;
 	 if(hr>12||mnt>60)
 	 {
-		 System.out.println("Wrong input,please provide valid input"); 
+		 System.out.println("Wrong input,please provide valid input!!"); 
 	 }
 	 else if(RdAngl<180)
 		{
